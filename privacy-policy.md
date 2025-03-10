@@ -9,10 +9,7 @@ about Your privacy rights and how the law protects You.
 
 We use Your Personal data to provide and improve the Service. By using the
 Service, You agree to the collection and use of information in accordance with
-this Privacy Policy. This Privacy Policy has been created with the help of the
-[Free Privacy Policy Generator](https://www.freeprivacypolicy.com/free-
-privacy-policy-generator/).
-
+this Privacy Policy.
 Interpretation and Definitions  
 ------------------------------
 
@@ -36,11 +33,11 @@ For the purposes of this Privacy Policy:
     more of the shares, equity interest or other securities entitled to vote
     for election of directors or other managing authority.
 
-  * Application refers to Sana AI, the software program provided by the
+  * Application refers to Capy AI, the software program provided by the
     Company.
 
   * Company (referred to as either "the Company", "We", "Us" or "Our" in this
-    Agreement) refers to Sana AI.
+    Agreement) refers to Capy AI.
 
   * Country refers to: Mexico
 
@@ -322,5 +319,5 @@ Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-  * By email: help.sanaai@gmail.com
+  * By email: help.sanai@gmail.com
 
