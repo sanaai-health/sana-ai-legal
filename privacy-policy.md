@@ -47,7 +47,7 @@ When you use our AI health chat:
 - You have complete control over your data
 - You may choose to share information with healthcare providers or others at your discretion
 - We are not responsible for data you choose to share outside the app
-- You can request data deletion by filling out our data deletion form: https://forms.gle/5U8mjWiL36Cb4txb7
+- You can request account deletion by filling out our data deletion form: https://forms.gle/5U8mjWiL36Cb4txb7
 - You can immediately delete all your data by uninstalling the app
 
 ## Data Deletion
@@ -68,7 +68,7 @@ Note: Since health data is stored only on your device, uninstalling the app imme
 We use the following services with minimal data sharing:
 - Firebase Authentication (for login and account management)
 - Google Gemini API (for AI features - processes data without storage)
-- Payment processors (Apple App Store and Google Play Store for subscriptions)
+- Payment processors (Revenue Cat, Apple App Store and Google Play Store for subscriptions)
 - Firebase Analytics (for app performance monitoring)
 
 These services have their own privacy policies and handle only the minimum data required for their functions.
@@ -122,8 +122,6 @@ While we don't store your health data on our servers, we implement security meas
 
 We may update this privacy policy as needed. We will notify you of any material changes by:
 - Updating the "Last updated" date
-- Sending an email notification to registered users
-- Displaying an in-app notification
 
 ## Contact Us
 
@@ -135,7 +133,7 @@ For data deletion requests, please use our form: https://forms.gle/5U8mjWiL36Cb4
 
 ## Your Rights
 
-Depending on your location, you may have certain rights regarding your data. Since we don't store personal health data on our servers, most data protection requests can be fulfilled by simply uninstalling the app or submitting a deletion request.
+Depending on your location, you may have certain rights regarding your data. Since we don't store personal health data on our servers, most data protection requests can be fulfilled by simply uninstalling the app or submitting an account deletion request.
 
 ## Consent
 
