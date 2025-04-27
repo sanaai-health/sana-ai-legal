@@ -1,10 +1,10 @@
-# Privacy Policy for Capy AI
+# Privacy Policy for Sana AI
 
 *Last updated: April 27, 2025*
 
 ## Our Commitment to Your Privacy
 
-At Capy AI, we believe your health data belongs to you. We've built our app with privacy at its core, ensuring your personal information remains private and secure.
+At Sana AI, we believe your health data belongs to you. We've built our app with privacy at its core, ensuring your personal information remains private and secure.
 
 ## What We DON'T Do
 
@@ -75,7 +75,7 @@ These services have their own privacy policies and handle only the minimum data 
 
 ## Medical Disclaimer
 
-Capy AI is not a medical application and should not be used as a substitute for professional medical advice, diagnosis, or treatment. While users can store health-related information, we:
+Sana AI is not a medical application and should not be used as a substitute for professional medical advice, diagnosis, or treatment. While users can store health-related information, we:
 - Do not provide medical advice
 - Do not diagnose conditions
 - Do not prescribe treatments
@@ -83,7 +83,7 @@ Capy AI is not a medical application and should not be used as a substitute for 
 
 ## Children's Privacy
 
-Capy AI is not intended for children under 13. We do not knowingly collect data from children. If you believe we have inadvertently collected information from a child under 13, please contact us immediately.
+Sana AI is not intended for children under 13. We do not knowingly collect data from children. If you believe we have inadvertently collected information from a child under 13, please contact us immediately.
 
 ## International Users and Compliance
 
@@ -109,7 +109,7 @@ If you are a California resident, you have the right to:
 We do not sell personal information to third parties.
 
 ### HIPAA Statement
-While Capy AI allows users to store health information, we are not a covered entity under HIPAA. We do not access, store, or transmit protected health information (PHI) to healthcare providers or insurance companies.
+While Sana AI allows users to store health information, we are not a covered entity under HIPAA. We do not access, store, or transmit protected health information (PHI) to healthcare providers or insurance companies.
 
 ## Data Security
 
@@ -139,8 +139,8 @@ Depending on your location, you may have certain rights regarding your data. Sin
 
 ## Consent
 
-By using Capy AI, you consent to our privacy policy and agree to its terms.
+By using Sana AI, you consent to our privacy policy and agree to its terms.
 
 ---
 
-© 2025 Capy AI. All rights reserved.
+© 2025 Sana AI. All rights reserved.
