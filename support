@@ -1,3 +1,40 @@
 
+# Sana AI Support
 
-https://docs.google.com/forms/d/e/1FAIpQLSfYhITO0Ilsn88vQsKhShUtZK213916UVgvhNfSB9W8xeslow/viewform?usp=dialog
+## Get Help
+
+For technical support, bug reports, or general questions about Sana AI, please use our support form:
+
+**[Submit Support Request]
+
+(https://docs.google.com/forms/d/e/1FAIpQLSfYhITO0Ilsn88vQsKhShUtZK213916UVgvhNfSB9W8xeslow/viewform?usp=dialog)**
+
+## Common Issues
+
+### Speech Recognition Not Working
+- Ensure microphone permissions are granted in iOS Settings > Privacy & Security > Microphone
+- Check speech recognition permissions in iOS Settings > Privacy & Security > Speech Recognition
+- Try restarting the app if voice input becomes unresponsive
+
+### Subscription Issues
+- Subscriptions are managed through the App Store
+- Contact Apple Support for billing inquiries
+
+### Data Privacy
+- All health data is stored locally on your device
+- Your conversations with Sana AI are processed securely
+- We do not sell or share your personal health information
+
+## Medical Disclaimer
+
+Sana AI is for informational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
+
+## Contact
+
+For urgent issues or detailed feedback, please use the support form above. We typically respond within 24-48 hours.
+
+
+## Version Information
+
+Current Version: 1.0.1
+Last Updated: August 2025
